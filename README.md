@@ -23,4 +23,4 @@ In mediapipe we have a feature to detect the hand which uses 21 points detection
            
 #### Distance calculation :-
                             
-                           ![hand_tracking_3d_android_gpu](https://user-images.githubusercontent.com/42738198/138577448-bda4db19-4277-4905-aff7-b93b58c07468.gif)
+                           ![hand_tracking_3d_android_gpu](https://user-images.githubusercontent.com/42738198/138577487-8558c9b9-4fba-4937-93c8-a5a9a95b5b0f.gif)
