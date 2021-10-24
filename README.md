@@ -20,5 +20,8 @@ In mediapipe we have a feature to detect the hand which uses 21 points detection
            paper option ,for rock and scissor I did the same.
            2) After collecting the data I have tarined my model with the help of SGD classifier.
            3) After all these thing I have used OpenCV for the hand tracking and predicting the paper,scissor and rock for the game.
+           
+#### Distance calculation :-
+                            https://google.github.io/mediapipe/images/mobile/hand_tracking_3d_android_gpu.gif
          
          
