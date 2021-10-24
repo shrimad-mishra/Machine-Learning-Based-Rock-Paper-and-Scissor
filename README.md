@@ -8,4 +8,5 @@ This is Machine Learning based Rock Paper and Scissor.
                     
 #### Mediapipe:-
 MediaPipe offers ready-to-use yet customizable Python solutions as a prebuilt Python package. MediaPipe Python package is available on PyPI for Linux, macOS and Windows.
-To install it use #### pip install mediapipe
+To install it use 
+#### pip install mediapipe
