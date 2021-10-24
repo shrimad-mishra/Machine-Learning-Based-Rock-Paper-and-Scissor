@@ -22,5 +22,14 @@ In mediapipe we have a feature to detect the hand which uses 21 points detection
            3) After all these thing I have used OpenCV for the hand tracking and predicting the paper,scissor and rock for the game.
            
 #### Distance calculation :-
-                            
-                           ![hand_tracking_3d_android_gpu](https://user-images.githubusercontent.com/42738198/138577487-8558c9b9-4fba-4937-93c8-a5a9a95b5b0f.gif)
+                            sqrt((x1-x2)^2 - (y1-y2)^2)
+
+#### Run:-
+          To run the file you need to first run the data_generation file
+                python data_generation.py
+          It will generate the corrdinates for paper, rock and scissor.
+          Then you need to run the train_with_sgd file to trian and save your model.
+                python train_with_sgd.py
+          At last you need to run main.py file to get the game in action.
+                python main.py
+                
