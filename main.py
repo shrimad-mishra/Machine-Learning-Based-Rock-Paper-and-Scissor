@@ -1,7 +1,7 @@
 # Importing the required modules
-import math
 import random
-from cv2 import PCA_DATA_AS_COL, cv2
+import cv2
+from cv2 import PCA_DATA_AS_COL
 import hand_detection_module
 from data_generation import num_hand
 import pickle

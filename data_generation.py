@@ -1,4 +1,4 @@
-from cv2 import cv2
+import cv2
 import pandas as pd
 import time
 import hand_detection_module
